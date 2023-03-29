@@ -87,7 +87,7 @@
 }
 
 .two-columns__brief {
-  /* margin: 0; */
+  margin: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -140,7 +140,6 @@
 }
 
 .table {
-  margin: 0;
   padding: 0;
   list-style-type: none;
   display: flex;
@@ -156,8 +155,6 @@
 }
 
 .table__heading {
-  font-size: 0;
-  font-weight: 0;
   margin: 0;
   line-height: 1.15;
   font-size: 24px;
@@ -165,12 +162,11 @@
 }
 
 .table__text {
-  font-size: 0;
-  font-weight: 0;
   margin: 0;
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
+  font-weight: normal;
 }
 
 .feynman {
