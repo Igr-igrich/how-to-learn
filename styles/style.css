@@ -1,27 +1,3 @@
-h2 {
-  font-size: 0;
-  font-weight: 0;
-  margin: 0;
-}
-
-h3 {
-  font-size: 0;
-  font-weight: 0;
-  margin: 0;
-}
-
-p {
-  font-size: 0;
-  font-weight: 0;
-  margin: 0;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -111,6 +87,9 @@ ul {
 }
 
 .two-columns__brief {
+  font-size: 0;
+  font-weight: 0;
+  margin: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -125,6 +104,9 @@ ul {
 }
 
 .two-columns__paragraph {
+  font-size: 0;
+  font-weight: 0;
+  margin: 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -162,6 +144,9 @@ ul {
 }
 
 .table {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -175,12 +160,18 @@ ul {
 }
 
 .table__heading {
+  font-size: 0;
+  font-weight: 0;
+  margin: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
 }
 
 .table__text {
+  font-size: 0;
+  font-weight: 0;
+  margin: 0;
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
@@ -261,6 +252,7 @@ ul {
 
 .kaufman__triangle {
   background-image: url("../images/kaufman-triangle.svg");
+  background-size: 877px 877px;
   position: absolute;
   top: 0;
   right: -210px;
@@ -302,6 +294,9 @@ ul {
 }
 
 .footer__column-heading {
+  font-size: 0;
+  font-weight: 0;
+  margin: 0;
   color: white;
   margin-bottom: 20px;
   line-height: 30px;
