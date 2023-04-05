@@ -1,0 +1,12 @@
+.header {
+  margin-bottom: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  min-height: 600px;
+  max-height: 756px;
+  height: 100vh;
+  background-color: #f2f2f2;
+  overflow: hidden;
+}
